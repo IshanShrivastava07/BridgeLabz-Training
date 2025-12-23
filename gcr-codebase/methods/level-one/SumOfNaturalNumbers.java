@@ -1,10 +1,10 @@
-import java.util.Scanner;
+import java.util.*;
 
-// Creating class SumOfNaturalNumbers finds the sum of n natural numbers using a loop.
+// Creating class SumOfNaturalNumbers to find the sum of n natural numbers using a loop.
  
 public class SumOfNaturalNumbers {
 
-    // Method to calculate sum using loop
+    // Method to calculate sum using for loop
     public static int findSum(int n) {
         int sum = 0;
 
@@ -23,7 +23,7 @@ public class SumOfNaturalNumbers {
         System.out.print("Enter a natural number: ");
         int n = sc.nextInt();
 
-        // Calling method
+        // Calling method findSum
         int result = findSum(n);
 
         // Displaying result
