@@ -20,7 +20,7 @@ import java.util.*;
         int month = Integer.parseInt(args[0]);
         int day = Integer.parseInt(args[1]);
 
-        // Checking spring season
+        // Checking if  month, day are in spring season
         if (isSpringSeason(month, day)) {
             System.out.println("Its a Spring Season");
         } else {
