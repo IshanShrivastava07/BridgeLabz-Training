@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+ //Creating class  FactorialRecursion that finds factorial using recursion 
+public class FactorialRecursion {
+
+    static int factorial(int n) {
+        if (n == 0) return 1;
+        return n * factorial(n - 1);
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int num = sc.nextInt();
+
+        System.out.println("Factorial is: " + factorial(num));
+    }
+}
