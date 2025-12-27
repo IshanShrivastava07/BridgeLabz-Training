@@ -1,4 +1,9 @@
-🗓 Day 8 – Classes and Objects in Java
+# Bridgelabz-Training
+
+## Week 2: Object-Oriented Programming (OOP) Basics in Java
+
+
+### 🗓 Day 8 – Classes and Objects in Java
 
 (Date: 27-Dec-2025)
 
