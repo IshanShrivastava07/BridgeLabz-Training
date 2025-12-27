@@ -17,7 +17,9 @@
 
 🔗 Code Link:
 👉 [Day 8 – Classes and Objects] (https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+
 ---
+
 ### 🗓 Day 9 – Object-Oriented Programming (OOP)
 
 (Date: 27-Dec-2025)
