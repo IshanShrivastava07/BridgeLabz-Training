@@ -5,7 +5,7 @@
 
 ### 🗓 Day 8 – Classes and Objects in Java
 
-(Date: 27-Dec-2025)
+(Date: 26-Dec-2025)
 
 * Studied Object-Oriented Programming basics:
 * Classes
@@ -17,3 +17,16 @@
 
 🔗 Code Link:
 👉 [Day 8 – Classes and Objects] (https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+---
+### 🗓 Day 9 – Object-Oriented Programming (OOP)
+
+(Date: 27-Dec-2025)
+
+* Studied constructors and access modifiers in Java
+* Practiced instance vs class variables and methods
+* Solved Level 1 OOP practice programs
+* Applied OOP concepts using real-world examples
+* Committed and pushed code to GitHub
+
+🔗 Code Link:
+👉 [Day 9 – OOP Concepts in Java] ()
