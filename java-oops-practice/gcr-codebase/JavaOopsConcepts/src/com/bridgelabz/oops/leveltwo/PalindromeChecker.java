@@ -1,7 +1,6 @@
 package com.bridgelabz.oops.leveltwo;
 
 public class PalindromeChecker {
-
     // Attribute
     String text;
 
