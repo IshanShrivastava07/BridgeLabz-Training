@@ -1,5 +1,5 @@
 package com.bridgelabz.constructor.levelone;
-// Circle class using constructor chaining
+// Creating Circle class using constructor chaining
 public class Circle {
     double radius;
 
