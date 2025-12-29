@@ -1,5 +1,5 @@
 package com.bridgelabz.constructor.levelone;
-// Library Book System
+// Creating class Library Book 
 public class LibraryBook {
     String title, author;
     double price;
