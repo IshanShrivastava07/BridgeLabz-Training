@@ -1,6 +1,5 @@
 package com.bridgelabz.oops.leveltwo;
 
-
 public class StudentsGrades {
 
     // Student attributes
