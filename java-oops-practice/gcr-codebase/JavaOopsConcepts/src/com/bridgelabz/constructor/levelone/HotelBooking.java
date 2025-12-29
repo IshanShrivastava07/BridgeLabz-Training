@@ -1,5 +1,5 @@
 package com.bridgelabz.constructor.levelone;
-// Hotel Booking System
+// Creating class Hotel Booking 
 public class HotelBooking {
     String guestName, roomType;
     int nights;
