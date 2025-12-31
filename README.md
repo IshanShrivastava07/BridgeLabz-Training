@@ -48,16 +48,16 @@
  ---
 
  ### Day 12 – Object Modeling, Class & Object Diagrams
-(Date – 29-12-2025)
+(Date – 30-12-2025)
 
-*Studied the difference between Classes and Objects in Java
-*Learned Object Modeling concepts
-*Understood Class Diagrams and their components
-*Studied Object Diagrams and their use cases
-*Learned Sequence Diagrams for object interaction flow
-*Went through Object Modeling and Relationships concepts
-*Reviewed design principles using diagrams
+* Studied the difference between Classes and Objects in Java
+* Learned Object Modeling concepts
+* Understood Class Diagrams and their components
+* Studied Object Diagrams and their use cases
+* Learned Sequence Diagrams for object interaction flow
+* Went through Object Modeling and Relationships concepts
+* Reviewed design principles using diagrams
 
 ### 🔗Code Link:
-👉 [Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling)
+👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling)
 ) 
