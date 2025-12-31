@@ -30,10 +30,11 @@
 * Applied OOP concepts using real-world examples
 * Committed and pushed code to GitHub
   
----
 
 🔗 Code Link:
 👉 [Day 10 – OOP Concepts in Java](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
+
+---
 
 ## Day 11 – this, static, final key words and instanceof operator
  (Date -29-12-2025) 
@@ -43,7 +44,7 @@
 * Commited and pushed solutions to the repository
 
 ### 🔗Code Link:
- 👉 [Day 11 - this, static, final key words and instanceof operator](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/oops/inBuiltFunctions)
+ 👉 [Day 11 - this, static, final key words and instanceof operator](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
 
  ---
 
@@ -59,5 +60,9 @@
 * Reviewed design principles using diagrams
 
 ### 🔗Code Link:
-👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling)
-) 
+👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
+
+ ---
+
+ 
+
