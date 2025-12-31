@@ -60,7 +60,7 @@
 * Reviewed design principles using diagrams
 
 ### 🔗Code Link:
-👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
+👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
 
  ---
 
