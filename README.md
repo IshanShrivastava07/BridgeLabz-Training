@@ -16,7 +16,7 @@
 * Committed and pushed solutions to the repository.
 
 🔗 Code Link:
-👉 [Day 9 – Classes and Objects] (https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+👉 [Day 9 – Classes and Objects](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 🔗 Code Link:
-👉 [Day 10 – OOP Concepts in Java] (https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
+👉 [Day 10 – OOP Concepts in Java](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
 
 ## Day 11 – this, static, final key words and instanceof operator
  (Date -29-12-2025) 
