@@ -447,3 +447,43 @@ Focused on understanding Java keywords and object handling concepts by implement
 Understood how Java keywords influence object behavior, memory usage, and runtime checks in real-world applications.
 
 ---
+
+## 📅 Day 2 – Object Modeling, Class Diagram & Scenario-Based Programs  
+**Date:** 30-Dec-2025
+
+Worked on object modeling and scenario-based programming by designing real-world Java applications using structured control flow.
+
+### What I practiced today:
+- **Object Modeling Concepts:**
+  - Designing class structures
+  - Understanding class diagrams and relationships
+- **Scenario-Based Programming:**
+  - Implementing logic using loops and conditions
+  - Using `if`, `switch`, `for`, `while`, `break`, and `continue`
+
+### Best Programming Practices Followed:
+- Used descriptive variable and method names.
+- Maintained clean and readable code structure.
+- Avoided unnecessary hard-coded values.
+
+### Work Done:
+- Practiced object modeling and class diagrams.
+- Implemented 5 scenario-based Java programs.
+- Added programs to submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Programs Implemented:
+- Temperature Logger
+- Train Reservation Queue
+- Sandeep’s Fitness Challenge Tracker
+- Movie Ticket Booking App
+- Rohan’s Library Reminder App
+
+🔗 **Assignment Links:**  
+- [Object Modeling](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)  
+- [Scenario-Based Problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-two)
+
+📌 **Key Takeaway:**  
+Strengthened understanding of object modeling and real-world logic implementation through structured Java programs.
+
+---
