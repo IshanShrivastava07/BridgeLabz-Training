@@ -31,3 +31,35 @@ Focused on understanding Linked List fundamentals by implementing node-based str
 Gained a clear understanding of linked list internals and dynamic data handling using node-based structures in Java.
 
 ---
+
+## 📅 Day 6 – Stack, Queue, HashMap & Hashing Functions  
+**Date:** 03-Jan-2026
+
+Worked on core data structures by implementing Stack, Queue, and HashMap concepts and understanding how hashing supports efficient data storage.
+
+### What I practiced today:
+- Stack operations using LIFO principle
+- Queue operations using FIFO principle
+- Implementing stacks and queues
+- Working with HashMap key-value pairs
+- Understanding hashing and collision handling
+
+### Best Programming Practices Followed:
+- Wrote small and reusable methods
+- Used clear and descriptive naming conventions
+- Maintained clean formatting and structure
+- Organized logic for maintainability
+
+### Work Done:
+- Completed Stack, Queue, and HashMap practice programs
+- Tested and verified all implementations
+- Committed and pushed code to GitHub
+
+🔗 **Assignment Links:**  
+- [Stack & Queue](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stackqueuehashmap)  
+
+📌 **Key Takeaway:**  
+Built strong fundamentals in Stack, Queue, and HashMap data structures and understood how hashing improves performance in Java applications.
+
+---
+
