@@ -602,3 +602,33 @@ Gained hands-on experience in modular coding and designing scalable object-orien
 
 ---
 
+## 📅 Day 6 – Stack, Queue, HashMap & Enterprise OOPS Systems  
+**Date:** 03-Jan-2026
+
+Focused on mastering core data structures and designing enterprise-level Java systems.
+
+### What I practiced today:
+- **Data Structures:**
+  - Stack and Queue operations
+  - HashMap and hashing concepts
+- **Enterprise OOPS Design:**
+  - Designing scalable architectures
+  - Applying abstraction and interfaces
+
+### Work Done:
+- Practiced Stack, Queue, and HashMap concepts.
+- Implemented 2 enterprise-level Java systems.
+- Updated submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- CabbyGo – Ride Hailing Application
+- MyBank – Customer Account Management System
+
+🔗 **Assignment Links:**  
+- [Stack & Queue](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stackqueuehashmap)   
+- [Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-codebase/ScenarioBasedProblems/src/com/bridgelabz)
+
+📌 **Key Takeaway:**  
+Built a strong understanding of data structures and enterprise-level object-oriented design through real-world Java implementations.
+
