@@ -521,10 +521,47 @@ Focused on implementing Java inheritance and solving advanced scenario-based pro
 - Festival Lucky Draw
 
 🔗 **Assignment Links:**  
-- [Inheritance](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+- [Inheritance](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)  
 - [Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
 
 📌 **Key Takeaway:**  
 Improved understanding of inheritance and advanced control flow by solving real-world Java problems.
+
+---
+
+## 📅 Day 4 – Encapsulation, Interface & Abstract Classes  
+**Date:** 01-Jan-2026
+
+Focused on implementing encapsulation, interfaces, and abstract classes to understand abstraction, security, and polymorphism in Java.
+
+### What I practiced today:
+- **Encapsulation:**
+  - Data hiding using private variables
+  - Controlled access through getters and setters
+- **Interfaces:**
+  - Defining and implementing interfaces
+  - Achieving multiple inheritance
+- **Abstract Classes:**
+  - Creating abstract classes and methods
+  - Implementing abstraction
+- **Polymorphism:**
+  - Method overriding
+  - Dynamic method dispatch
+
+### Best Programming Practices Followed:
+- Used meaningful identifiers.
+- Maintained modular code structure.
+- Avoided hard-coded values.
+
+### Work Done:
+- Completed encapsulation, interface, and abstract class programs.
+- Updated submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Encapsulation, Interface & Abstract Classes](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
+
+📌 **Key Takeaway:**  
+Developed a strong understanding of abstraction, data security, and polymorphism in Java.
 
 ---
