@@ -248,3 +248,37 @@ Focused on applying object-oriented principles to real-world problem scenarios b
 Improved practical understanding of designing modular and scalable object-oriented Java systems.
 
 ---
+
+## 📅 Day 6 – Enterprise OOPS Systems & Real-World Application Design  
+**Date:** 03-Jan-2026
+
+Focused on designing enterprise-style Java applications by implementing scalable system structures using object-oriented design principles.
+
+### What I practiced today:
+- Designed enterprise-level system workflows
+- Modeled business logic using classes and objects
+- Applied core OOPS principles in large-scale applications
+- Used interfaces to build modular and maintainable architectures
+
+### Best Programming Practices Followed:
+- Designed reusable and focused methods
+- Followed consistent naming and formatting standards
+- Structured code for long-term scalability
+
+### Work Done:
+- Completed enterprise-level scenario-based design practice
+- Implemented 2 real-world Java systems
+- Tested, committed, and pushed all programs to GitHub
+
+### Scenario-Based Systems Implemented:
+- CabbyGo – Ride Hailing Application
+- MyBank – Customer Account Management System
+
+🔗 **Assignment Link:**  
+[Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-codebase/ScenarioBasedProblems/src/com/bridgelabz)
+
+📌 **Key Takeaway:**  
+Strengthened hands-on experience in enterprise-level object-oriented Java system design.
+
+---
+
