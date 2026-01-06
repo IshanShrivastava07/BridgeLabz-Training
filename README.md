@@ -141,3 +141,34 @@ Focused on object modeling by designing real-world Java applications and underst
 Improved understanding of class relationships and object modeling by building structured Java programs with clean design principles.
 
 ---
+
+## 📅 Day 3 – Inheritance  
+**Date:** 31-Dec-2025
+
+Focused on strengthening Java inheritance concepts by implementing programs that demonstrate parent-child relationships and method overriding.
+
+### What I practiced today:
+- **Java Inheritance:**
+  - Understanding inheritance fundamentals
+  - Using the `extends` keyword
+  - Basics of method overriding
+  - Parent and child class interaction
+
+### Best Programming Practices Followed:
+- Used descriptive variable and method names.
+- Maintained proper indentation and clean structure.
+- Designed modular and readable programs.
+- Avoided hard-coded values wherever possible.
+
+### Work Done:
+- Completed inheritance-based Java programs.
+- Added solutions to submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Inheritance](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
+
+📌 **Key Takeaway:**  
+Strengthened understanding of inheritance by designing modular Java programs that clearly demonstrate parent-child relationships.
+
+---
