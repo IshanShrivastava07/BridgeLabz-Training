@@ -157,3 +157,43 @@ Focused on using Java built-in functions and string methods to write clean and e
 Gained confidence in using built-in functions for efficient problem solving.
 
 ---
+
+## 📅 Day 3 – Scenario-Based Java Problem Solving  
+**Date:** 24-Dec-2025
+
+Solved real-world Java problems to strengthen logic building and Core Java fundamentals.
+
+### What I practiced today:
+- Conditions, loops, and user input
+- Applying logic to real-world scenarios
+
+### Work Done:
+- Implemented and tested scenario-based programs
+- Organized and pushed code to GitHub
+
+🔗 **Assignment Link:**  
+[Scenario-Based Codebase](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-one)
+
+📌 **Key Takeaway:**  
+Improved logical thinking through scenario-driven Java programs.
+
+---
+
+## 📅 Day 4 – Scenario-Based Java Problem Solving  
+**Date:** 26-Dec-2025
+
+Practiced advanced scenario-based problems using loops and conditional statements.
+
+### Work Done:
+- Implemented multiple real-world logic problems
+- Tested and pushed all solutions to GitHub
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-one)
+
+📌 **Key Takeaway:**  
+Strengthened problem-solving skills using Java control flow.
+
+---
+
+
