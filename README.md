@@ -1,68 +1,41 @@
 # Bridgelabz-Training
 
-## Week 2: Object-Oriented Programming (OOP) Basics in Java
+# Week 2: Java Strings and oops concepts
 
+## 📅 Day 4 – Object-Oriented Programming Fundamentals  
+**Date:** 26-Dec-2025
 
-### 🗓 Day 9 – Classes and Objects in Java
+Dedicated this day to reinforcing Object-Oriented Programming basics by practically working with Java classes and objects while adhering to clean and professional coding practices.
 
-(Date: 26-Dec-2025)
+### What I practiced today:
+- **Object-Oriented Programming Concepts:**
+  - Learning the fundamentals of classes and objects
+  - Creating objects and accessing their members
+  - Working with constructors for object creation
+  - Invoking methods through object references
+- **Java Methods:**
+  - Writing and invoking methods
+  - Passing parameters and handling return values
+  - Implementing method overloading
+- **Java Class Design:**
+  - Designing well-structured and meaningful classes
+  - Creating and managing multiple objects from a single class
 
-* Studied Object-Oriented Programming basics:
-* Classes
-* Objects
-* Practiced creating objects and calling methods using object references.
-* Implemented example programs to understand object interaction.
-* Solved practice problems based on classes and objects.
-* Committed and pushed solutions to the repository.
+### Best Programming Practices Followed:
+- Designed classes with clearly defined responsibilities.
+- Followed standard naming conventions for variables, methods, and classes.
+- Moved logic out of the `main()` method into reusable methods.
+- Reduced code repetition by creating reusable logic blocks.
 
-🔗 Code Link:
-👉 [Day 9 – Classes and Objects](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+### Work Done:
+- Developed multiple Java programs demonstrating OOPS concepts.
+- Verified program behavior using different object instances.
+- Committed and pushed all OOPS-related programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Object-Oriented Programming Fundamentals](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+
+📌 **Key Takeaway:**  
+Strengthened understanding of Java OOPS by applying classes, objects, constructors, and methods to build clean, modular, and reusable programs.
 
 ---
-
-### 🗓 Day 10 – Java Constructors, Instance vs. Class Variables and Access Modifiers
-
-(Date: 27-Dec-2025)
-
-* Studied constructors and access modifiers in Java
-* Practiced instance vs class variables and methods
-* Solved Level 1 OOP practice programs
-* Applied OOP concepts using real-world examples
-* Committed and pushed code to GitHub
-  
-
-🔗 Code Link:
-👉 [Day 10 – OOP Concepts in Java](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
-
----
-
-## Day 11 – this, static, final key words and instanceof operator
- (Date -29-12-2025) 
-
-* Studied about Java this, static, final key words and instanceof operators
-* Solved problems related to this
-* Commited and pushed solutions to the repository
-
-### 🔗Code Link:
- 👉 [Day 11 - this, static, final key words and instanceof operator](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
-
- ---
-
- ### Day 12 – Object Modeling, Class & Object Diagrams
-(Date – 30-12-2025)
-
-* Studied the difference between Classes and Objects in Java
-* Learned Object Modeling concepts
-* Understood Class Diagrams and their components
-* Studied Object Diagrams and their use cases
-* Learned Sequence Diagrams for object interaction flow
-* Went through Object Modeling and Relationships concepts
-* Reviewed design principles using diagrams
-
-### 🔗Code Link:
-👉 [Day 12 - Object Modeling and OOD Diagrams](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/objectmodelling)
-
- ---
-
- 
-
