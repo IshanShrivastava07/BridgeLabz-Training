@@ -410,3 +410,41 @@ Dedicated the day to improving logical thinking and coding skills by solving Lee
 Improved confidence in solving interview-style problems through consistent practice and clean coding techniques.
 
 ---
+
+# Week 3: Java Keywords & Object Handling
+
+## 📅 Day 1 – this, static, final Keywords & instanceof Operator  
+**Date:** 29-Dec-2025
+
+Focused on understanding Java keywords and object handling concepts by implementing real-world programs using `this`, `static`, `final`, and `instanceof`.
+
+### What I practiced today:
+- **Java Keywords:**
+  - Usage of the `this` keyword
+  - Static variables and methods
+  - Final variables, methods, and classes
+- **Object Handling:**
+  - Runtime type checking using `instanceof`
+- **Scenario-Based Logic:**
+  - Applying OOPS concepts to real-world problems
+
+### Best Programming Practices Followed:
+- Used variables for all inputs and constants.
+- Encapsulated logic inside methods.
+- Followed consistent naming conventions.
+- Used meaningful class names.
+
+### Work Done:
+- Completed keyword-based Java programs.
+- Solved 5 scenario-based problems.
+- Updated submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Links:**  
+- [this, static, final Keywords & instanceof](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)  
+
+📌 **Key Takeaway:**  
+Understood how Java keywords influence object behavior, memory usage, and runtime checks in real-world applications.
+
+---
+
