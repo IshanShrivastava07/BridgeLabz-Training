@@ -39,3 +39,41 @@ Dedicated this day to reinforcing Object-Oriented Programming basics by practica
 Strengthened understanding of Java OOPS by applying classes, objects, constructors, and methods to build clean, modular, and reusable programs.
 
 ---
+
+## 📅 Day 5 – Java Constructors, Instance vs Class Variables  
+**Date:** 27-Dec-2025
+
+Focused on mastering Java constructors and understanding the distinction between instance and class variables by exploring object initialization and memory behavior.
+
+### What I practiced today:
+- **Java Constructors:**
+  - Understanding the role of constructors
+  - Working with default and parameterized constructors
+  - Implementing constructor overloading
+  - Using the `this` keyword effectively
+- **Instance vs Class Variables:**
+  - Memory allocation for instance variables
+  - Shared behavior of static (class-level) variables
+  - Comparing instance and static members
+- **Object Initialization:**
+  - Creating objects using constructors
+  - Accessing variables and methods through object references
+
+### Best Programming Practices Followed:
+- Used variables for constants, inputs, and outputs.
+- Implemented logic using methods rather than writing everything in `main()`.
+- Followed proper naming standards for clarity.
+- Used descriptive program and class names.
+
+### Work Done:
+- Completed programs related to constructors and variable scope.
+- Added all programs to submission documentation.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Java Constructors & Instance vs Class Variables](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
+
+📌 **Key Takeaway:**  
+Developed a clear understanding of constructor behavior and memory differences between instance and static variables, improving object-oriented class design.
+
+---
