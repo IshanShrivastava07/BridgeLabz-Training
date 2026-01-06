@@ -487,3 +487,44 @@ Worked on object modeling and scenario-based programming by designing real-world
 Strengthened understanding of object modeling and real-world logic implementation through structured Java programs.
 
 ---
+
+## 📅 Day 3 – Inheritance & Advanced Scenario-Based Programs  
+**Date:** 31-Dec-2025
+
+Focused on implementing Java inheritance and solving advanced scenario-based problems using structured control flow.
+
+### What I practiced today:
+- **Java Inheritance:**
+  - Parent-child class relationships
+  - Using the `extends` keyword
+  - Method overriding concepts
+- **Scenario-Based Programming:**
+  - Complex logic using loops and conditions
+  - Implementing `do-while`, `switch`, and nested loops
+
+### Best Programming Practices Followed:
+- Used clean and modular code.
+- Maintained consistent formatting.
+- Avoided hard-coded values.
+
+### Work Done:
+- Completed inheritance-based programs.
+- Implemented 5 advanced scenario-based applications.
+- Updated submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Programs Implemented:
+- Digital Watch Simulation
+- Online Quiz Application
+- Currency Exchange Kiosk
+- Bus Route Distance Tracker
+- Festival Lucky Draw
+
+🔗 **Assignment Links:**  
+- [Inheritance](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+- [Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
+
+📌 **Key Takeaway:**  
+Improved understanding of inheritance and advanced control flow by solving real-world Java problems.
+
+---
