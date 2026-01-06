@@ -85,37 +85,53 @@
 🔗 *Code Link:*  
 👉 [Day 5 – Arrays](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-### 🗓 Day 6 – Strings & Methods  
-*(Date: 22-Dec-2025)*
+---
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
+## 📅 Day 6 – Java Methods (Level 1, Level 2 & Level 3)  
+**Date:** 20-Dec-2025
 
-🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+Practiced Java methods to build reusable and structured programs while following clean coding standards.
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-*(Date: 23-Dec-2025)*
+### What I practiced today:
+- User-defined, static, and recursive methods
+- Making methods reusable and dynamic
+- Using standard library methods
+- Working with the `Math` class
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+### Work Done:
+- Completed Level 1, 2, and 3 Java Methods lab assignments
+- Tested all programs locally
+- Committed and pushed code to GitHub
 
-🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+🔗 **Assignment Link:**  
+[Java Methods Lab Practice](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
+📌 **Key Takeaway:**  
+Learned to write modular and reusable Java programs using methods.
+
+---
+
+# Week 2: Java Strings, Methods & Exception Handling
+
+## 📅 Day 1 – Java Strings & Exception Handling  
+**Date:** 22-Dec-2025
+
+Worked on Java String handling and Exception Handling concepts through lab-based practice.
+
+### What I practiced today:
+- String creation, manipulation, and built-in methods
+- Escape characters and string arrays
+- Checked and unchecked exceptions
+
+### Work Done:
+- Completed String and Exception Handling labs
+- Tested, committed, and pushed programs to GitHub
+
+🔗 **Assignment Link:**  
+[Java String Lab Practices](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+📌 **Key Takeaway:**  
+Improved understanding of string operations and error handling in Java.
+
+---
 
