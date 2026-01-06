@@ -565,3 +565,40 @@ Focused on implementing encapsulation, interfaces, and abstract classes to under
 Developed a strong understanding of abstraction, data security, and polymorphism in Java.
 
 ---
+
+## 📅 Day 5 – Linked List, Helper Methods & Real-World OOPS Design  
+**Date:** 02-Jan-2026
+
+Focused on understanding linked lists and building real-world object-oriented systems using modular helper methods.
+
+### What I practiced today:
+- **Data Structures:**
+  - Linked list fundamentals
+  - Node creation and traversal
+- **Helper Methods:**
+  - Breaking logic into reusable methods
+- **Advanced OOPS Design:**
+  - Applying OOPS principles in real-world systems
+
+### Work Done:
+- Practiced linked list implementation.
+- Built 5 real-world Java systems.
+- Updated submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- Hospital Patient Management System
+- Vehicle Rental Application
+- University Course Enrollment System
+- E-Wallet Application
+- Smart Home Automation System
+
+🔗 **Assignment Links:**  
+- [Linked List](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist)  
+- [Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-codebase/ScenarioBasedProblems/src/com/bridgelabz)
+
+📌 **Key Takeaway:**  
+Gained hands-on experience in modular coding and designing scalable object-oriented systems.
+
+---
+
