@@ -196,4 +196,51 @@ Strengthened problem-solving skills using Java control flow.
 
 ---
 
+# Week 3: Scenario-Based Java Problem Solving
+
+## 📅 Day 1 – Scenario-Based Java Problems  
+**Date:** 29-Dec-2025
+
+Worked on multiple real-world Java scenarios using loops and conditions.
+
+### Work Done:
+- Implemented and tested scenario-based programs
+- Committed and pushed all code to GitHub
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-two)
+
+📌 **Key Takeaway:**  
+Improved control flow and logic handling in Java.
+
+---
+
+## 📅 Day 2 – Scenario-Based Java Problems  
+**Date:** 30-Dec-2025
+
+Solved scenario-driven Java problems focusing on loops and conditions.
+
+### Work Done:
+- Implemented multiple real-world scenarios
+- Tested and pushed solutions to GitHub
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-two)
+
+📌 **Key Takeaway:**  
+Enhanced logical thinking using structured Java programs.
+
+---
+
+## 📅 Day 3 – Scenario-Based Java Problems  
+**Date:** 31-Dec-2025
+
+Focused on applying loops, conditions, and control statements in real-world scenarios.
+
+### Work Done:
+- Completed scenario-based Java programs
+- Tested and pushed all programs to GitHub
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-two)
 
