@@ -135,3 +135,25 @@ Improved understanding of string operations and error handling in Java.
 
 ---
 
+## 📅 Day 2 – Built-in Functions & String Handling  
+**Date:** 23-Dec-2025
+
+Focused on using Java built-in functions and string methods to write clean and efficient logic.
+
+### What I practiced today:
+- Common string operations
+- Parameter passing and return values
+- Practical use of built-in functions
+
+### Work Done:
+- Completed extra practice assignments
+- Tested, committed, and pushed all programs
+
+🔗 **Assignment Links:**  
+- [String Handling – Extras](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/extra-strings)  
+- [Built-in Functions – Extras](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/extra-Built-in)
+
+📌 **Key Takeaway:**  
+Gained confidence in using built-in functions for efficient problem solving.
+
+---
