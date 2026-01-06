@@ -211,4 +211,40 @@ Developed a strong grasp of abstraction, data hiding, and polymorphism through c
 
 ---
 
+## 📅 Day 5 – Real-World OOPS Design & Helper Methods  
+**Date:** 02-Jan-2026
 
+Focused on applying object-oriented principles to real-world problem scenarios by building Java applications with modular design and reusable helper methods.
+
+### What I practiced today:
+- Designed real-world systems using classes and objects
+- Implemented application logic through structured methods
+- Refactored complex logic into reusable helper methods
+- Applied encapsulation, inheritance, abstraction, and polymorphism
+- Used interfaces to improve flexibility and code organization
+
+### Best Programming Practices Followed:
+- Designed small and focused methods
+- Used meaningful variable and method names
+- Maintained clean formatting and indentation
+- Structured code for scalability and maintainability
+
+### Work Done:
+- Completed advanced scenario-based OOPS practice
+- Developed 5 real-world Java applications
+- Tested, committed, and pushed all programs to GitHub
+
+### Scenario-Based Systems Implemented:
+- Hospital Patient Management System
+- Vehicle Rental Application
+- University Course Enrollment System
+- E-Wallet Application
+- Smart Home Automation System
+
+🔗 **Assignment Link:**  
+[Scenario-Based Programs](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-codebase/ScenarioBasedProblems/src/com/bridgelabz)
+
+📌 **Key Takeaway:**  
+Improved practical understanding of designing modular and scalable object-oriented Java systems.
+
+---
