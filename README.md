@@ -77,3 +77,37 @@ Focused on mastering Java constructors and understanding the distinction between
 Developed a clear understanding of constructor behavior and memory differences between instance and static variables, improving object-oriented class design.
 
 ---
+
+# Week 3: Java Keywords & Object Handling
+
+## 📅 Day 1 – this, static, final Keywords & instanceof Operator  
+**Date:** 29-Dec-2025
+
+Focused on understanding important Java keywords and object handling mechanisms by implementing programs using `this`, `static`, `final`, and `instanceof`.
+
+### What I practiced today:
+- **Java Keywords:**
+  - Use cases of the `this` keyword
+  - Static variables and methods
+  - Final variables, methods, and classes
+- **Object Handling:**
+  - Runtime type checking using the `instanceof` operator
+
+### Best Programming Practices Followed:
+- Stored all fixed values, inputs, and outputs using variables.
+- Encapsulated logic within methods for better readability.
+- Followed consistent naming conventions.
+- Used meaningful and descriptive class names.
+
+### Work Done:
+- Implemented programs demonstrating keyword usage.
+- Updated submission documents with solutions.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[this, static, final Keywords & instanceof](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+
+📌 **Key Takeaway:**  
+Gained clarity on how Java keywords influence object behavior, memory management, and runtime type checking.
+
+---
