@@ -304,3 +304,41 @@ Focused on solving real-world, scenario-based Java problems to strengthen Core J
 Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
 
 ---
+
+## 📅 Day 4 – Object-Oriented Programming Fundamentals  
+**Date:** 26-Dec-2025
+
+Worked on reinforcing Object-Oriented Programming basics by practically implementing Java classes and objects while maintaining clean and professional coding practices.
+
+### What I practiced today:
+- **Object-Oriented Programming Concepts:**
+  - Understanding the role of classes and objects
+  - Creating objects and accessing their members
+  - Working with constructors for object creation
+  - Calling methods using object references
+- **Java Methods:**
+  - Creating reusable methods
+  - Passing parameters and handling return values
+  - Implementing method overloading
+- **Java Class Design:**
+  - Designing well-structured and meaningful classes
+  - Creating multiple objects from a single class
+
+### Best Programming Practices Followed:
+- Designed classes with clear and specific responsibilities.
+- Followed standard naming conventions across classes and methods.
+- Avoided writing logic directly inside `main()` by using methods.
+- Focused on reusability to minimize duplicate code.
+
+### Work Done:
+- Developed multiple Java programs demonstrating classes, objects, and methods.
+- Tested programs using different object instances.
+- Committed and pushed all OOPS-based programs to GitHub.
+
+🔗 **Assignment Link:**  
+- [Object-Oriented Programming Fundamentals](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)
+- [Scenario based problems](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Week-one)
+📌 **Key Takeaway:**  
+Built a strong foundation in Java OOPS by applying classes, objects, constructors, and methods to create modular and reusable programs.
+
+---
