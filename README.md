@@ -1,5 +1,75 @@
 # BridgeLabz-Training
-# Week 1: Git, GitHub & Java Programming Fundamentals
+
+# BridgeLabz-Training
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+
+## Training Overview
+
+This repository documents my learning journey at **BridgeLabz**, spanning from **December 15, 2025 to present**.  
+The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
+
+---
+
+## Repository Branches
+
+### 🔹 core-java-practice  
+**Week 1:** Fundamentals of Java Programming  
+
+### 🔹 java-oops-practice  
+**Week 2:** Object-Oriented Programming  
+
+### 🔹 dsa-practice  
+**Week 3:** Data Structures & Algorithms  
+
+---
+
+## 📁Project Structure
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/           
+│   │   ├── 📁 programming-elements/    
+│   │   ├── 📁 control-flows/           
+│   │   ├── 📁 arrays/                 
+│   │   ├── 📁 methods/                
+│   │   ├── 📁 strings/                 
+│   │   └── 📁 extras/                 
+│   ├── 📁 leet-code-codebase/         
+│   └── 📁 scenario-based-codebase/    
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/   
+│   │               └── 📁 constructor/
+│   │               └── 📁 finalandstatic/    
+│   │               └── 📁 objectmodeling/   
+│   │               └── 📁 inheritance/      
+│   │               └── 📁 encapsulation/     
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/      
+│   │               └── 📁 stacksandqueues/                      
+│   │               └── 📁 hashmapsandfunctions/          
+│   │               └── 📁 sorting/           
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
+|
+└── README.md
+```
+---
+
+# Week 1: Core Java Programming
 
 ## 📅 Day 1 – Git & GitHub Setup  
 **Date:** 15-Dec-2025
@@ -10,22 +80,6 @@
 - Understood the basics of version control and how GitHub is used to track learning progress.
 - Initialized the repository and prepared it for structured daily updates.
 
-📁 **Folder Structure:**
-```text
-BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extra/
-│   │   ├── methods/
-│   │   ├── programming-elements/
-│   │   ├── programming-prerequisites/
-│   │   └── strings/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
-└── README.md
-```
 🔧 **Git Commands Learned:**
 - `git init`
 - `git clone`
@@ -196,9 +250,8 @@ Learned how to design reusable and modular Java programs using methods, improvin
 
 ---
 
-# Week 2: Java Strings, Methods & Exception Handling
 
-## 📅 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
+## 📅 Day 7 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
 **Date:** 22-Dec-2025
 
 Focused on strengthening Java Strings and Exception Handling concepts by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
@@ -234,7 +287,7 @@ Improved understanding of Java string manipulation and exception handling concep
 
 ---
 
-## 📅 Day 2 – Built-in Functions & String Handling  
+## 📅 Day 8 – Built-in Functions & String Handling  
 **Date:** 23-Dec-2025
 
 Focused on understanding Java String Handling and learning the practical use of built-in functions to build clean and efficient logic.
@@ -267,7 +320,7 @@ Developed a stronger understanding of Java string handling and built-in function
 
 ---
 
-## 📅 Day 3 – Scenario-Based Java Problem Solving  
+## 📅 Day 9 – Scenario-Based Java Problem Solving  
 **Date:** 24-Dec-2025
 
 Focused on solving real-world, scenario-based Java problems to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
@@ -305,7 +358,9 @@ Improved problem-solving skills by applying core Java concepts to real-world sce
 
 ---
 
-## 📅 Day 4 – Object-Oriented Programming Fundamentals  
+# Week 2: Object-Oriented Programming
+
+## 📅 Day 1 – Object-Oriented Programming Fundamentals  
 **Date:** 26-Dec-2025
 
 Worked on reinforcing Object-Oriented Programming basics by practically implementing Java classes and objects while maintaining clean and professional coding practices.
@@ -345,7 +400,7 @@ Built a strong foundation in Java OOPS by applying classes, objects, constructor
 ---
 
 
-## 📅 Day 5 – Java Constructors, Instance vs Class Variables  
+## 📅 Day 2 – Java Constructors, Instance vs Class Variables  
 **Date:** 27-Dec-2025
 
 Focused on understanding constructors and the difference between instance and class variables by exploring object initialization and memory behavior in Java.
@@ -382,7 +437,7 @@ Focused on understanding constructors and the difference between instance and cl
 
 ---
 
-## 📅 Day 6 – LeetCode Problem Solving & Logic Building  
+## 📅 Day 3 – LeetCode Problem Solving & Logic Building  
 **Date:** 28-Dec-2025
 
 Dedicated the day to improving logical thinking and coding skills by solving LeetCode problems with a focus on clean and efficient solutions.
@@ -411,9 +466,8 @@ Improved confidence in solving interview-style problems through consistent pract
 
 ---
 
-# Week 3: Java Keywords & Object Handling
 
-## 📅 Day 1 – this, static, final Keywords & instanceof Operator  
+## 📅 Day 4 – this, static, final Keywords & instanceof Operator  
 **Date:** 29-Dec-2025
 
 Focused on understanding Java keywords and object handling concepts by implementing real-world programs using `this`, `static`, `final`, and `instanceof`.
@@ -448,7 +502,7 @@ Understood how Java keywords influence object behavior, memory usage, and runtim
 
 ---
 
-## 📅 Day 2 – Object Modeling, Class Diagram & Scenario-Based Programs  
+## 📅 Day 5 – Object Modeling, Class Diagram & Scenario-Based Programs  
 **Date:** 30-Dec-2025
 
 Worked on object modeling and scenario-based programming by designing real-world Java applications using structured control flow.
@@ -488,7 +542,7 @@ Strengthened understanding of object modeling and real-world logic implementatio
 
 ---
 
-## 📅 Day 3 – Inheritance & Advanced Scenario-Based Programs  
+## 📅 Day 6 – Inheritance & Advanced Scenario-Based Programs  
 **Date:** 31-Dec-2025
 
 Focused on implementing Java inheritance and solving advanced scenario-based problems using structured control flow.
@@ -529,7 +583,7 @@ Improved understanding of inheritance and advanced control flow by solving real-
 
 ---
 
-## 📅 Day 4 – Encapsulation, Interface & Abstract Classes  
+## 📅 Day 7– Encapsulation, Interface & Abstract Classes  
 **Date:** 01-Jan-2026
 
 Focused on implementing encapsulation, interfaces, and abstract classes to understand abstraction, security, and polymorphism in Java.
@@ -566,7 +620,9 @@ Developed a strong understanding of abstraction, data security, and polymorphism
 
 ---
 
-## 📅 Day 5 – Linked List, Helper Methods & Real-World OOPS Design  
+# Week 3: Data Structures & Algorithms
+
+## 📅 Day 1 – Linked List, Helper Methods & Real-World OOPS Design  
 **Date:** 02-Jan-2026
 
 Focused on understanding linked lists and building real-world object-oriented systems using modular helper methods.
@@ -602,7 +658,7 @@ Gained hands-on experience in modular coding and designing scalable object-orien
 
 ---
 
-## 📅 Day 6 – Stack, Queue, HashMap & Enterprise OOPS Systems  
+## 📅 Day 2 – Stack, Queue, HashMap & Enterprise OOPS Systems  
 **Date:** 03-Jan-2026
 
 Focused on mastering core data structures and designing enterprise-level Java systems.
@@ -631,4 +687,108 @@ Focused on mastering core data structures and designing enterprise-level Java sy
 
 📌 **Key Takeaway:**  
 Built a strong understanding of data structures and enterprise-level object-oriented design through real-world Java implementations.
+
+---
+
+## 🗓 Day 3 – Sorting Algorithms & Scenario Based Design 
+**Date: 05-Jan-2026**
+
+Focused on strengthening **advanced object-oriented programming, real-world scenario based system design, and sorting algorithm fundamentals** by building enterprise-level Java applications and implementing sorting techniques while following professional coding standards.
+
+### What I practiced today:   
+- Advanced OOPS Concepts:   
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
+  - Using interfaces to define system behavior  
+  - Designing modular and scalable class structures  
+- Scenario Based System Design:   
+  - Modeling real-world enterprise problem scenarios  
+  - Implementing business logic using methods  
+  - Applying access modifiers to secure sensitive data  
+- Sorting Algorithms:   
+  - Understanding sorting concepts and importance  
+  - Implementing Bubble Sort, Selection Sort, and Insertion Sort  
+  - Comparing algorithm performance and time complexity  
+
+### Best Programming Practices Followed:   
+- Designed small, focused, and reusable methods  
+- Avoided hard-coding values  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Advanced OOPS, Scenario Based Design & Sorting Algorithms** practice  
+- Implemented **2 real-world enterprise-level Java systems**  
+- Implemented sorting algorithm programs  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Systems Implemented:
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+
+
+### 📌 Key Takeaway:
+Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
+
+---
+
+## 🗓 Day 4 – Searching & Scenario Based questions  
+**Date: 06-Jan-2026**
+
+Focused on strengthening **searching algorithm fundamentals (Linear Search & Binary Search)** and **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### What I practiced today:   
+- Searching Algorithms:   
+  - Linear Search implementation  
+  - Binary Search implementation  
+  - Understanding time complexity of searching techniques  
+- Enterprise Scenario Based OOPS Design:   
+  - Designing real-world problem scenarios  
+  - Modeling system components using classes and objects  
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism   
+
+### Work Done:
+- Completed **Linear Search & Binary Search** practice  
+- Implemented **4 real-world enterprise-level Java systems**  
+- Solved **1 LeetCode problem**  
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform  
+- EduMentor – Personalized Learning Platform  
+- FitTrack – Personal Fitness Tracker  
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 5 – Algorithm Runtime Analysis & Big-O Notation  
+**Date: 07-Jan-2026**
+
+Focused on strengthening **algorithm runtime analysis concepts and Big-O notation** by understanding time and space complexity and analyzing algorithm performance while following professional coding standards.
+
+### What I practiced today:   
+- Algorithm Runtime Analysis:   
+  - Understanding algorithm efficiency  
+  - Best case, average case, and worst case scenarios  
+  - Analyzing time complexity of algorithms  
+- Big-O Notation:   
+  - Understanding asymptotic notations  
+  - Analyzing common complexities: O(1), O(n), O(log n), O(n²)  
+  - Comparing algorithm performance  
+
+### Best Programming Practices Followed:   
+- Used meaningful variable and method names  
+- Maintained clean and readable code structure  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Algorithm Runtime Analysis & Big-O Notation** practice  
+- Tested, committed, and pushed all programs to GitHub  
+
+   
+### 📌 Key Takeaway:
+Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
+
+---
 
