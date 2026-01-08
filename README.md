@@ -1,8 +1,8 @@
 # Bridgelabz-Training
 
-# Week 2: Java Strings and oops concepts
-
-## 📅 Day 4 – Object-Oriented Programming Fundamentals  
+# Week 2:  Java Object-Oriented Programming (OOP) 
+**Date:** 26-Dec-2025
+## 📅 Day 1 – Object-Oriented Programming Fundamentals  
 **Date:** 26-Dec-2025
 
 Dedicated this day to reinforcing Object-Oriented Programming basics by practically working with Java classes and objects while adhering to clean and professional coding practices.
@@ -40,7 +40,7 @@ Strengthened understanding of Java OOPS by applying classes, objects, constructo
 
 ---
 
-## 📅 Day 5 – Java Constructors, Instance vs Class Variables  
+## 📅 Day 2 – Java Constructors, Instance vs Class Variables  
 **Date:** 27-Dec-2025
 
 Focused on mastering Java constructors and understanding the distinction between instance and class variables by exploring object initialization and memory behavior.
@@ -78,9 +78,7 @@ Developed a clear understanding of constructor behavior and memory differences b
 
 ---
 
-# Week 3: Java Keywords & Object Handling
-
-## 📅 Day 1 – this, static, final Keywords & instanceof Operator  
+## 📅 Day 3 – this, static, final Keywords & instanceof Operator  
 **Date:** 29-Dec-2025
 
 Focused on understanding important Java keywords and object handling mechanisms by implementing programs using `this`, `static`, `final`, and `instanceof`.
@@ -112,7 +110,7 @@ Gained clarity on how Java keywords influence object behavior, memory management
 
 ---
 
-## 📅 Day 2 – Object Modeling & Class Diagram  
+## 📅 Day 4 – Object Modeling & Class Diagram  
 **Date:** 30-Dec-2025
 
 Focused on object modeling by designing real-world Java applications and understanding class structure, relationships, and object-oriented design principles.
@@ -142,7 +140,7 @@ Improved understanding of class relationships and object modeling by building st
 
 ---
 
-## 📅 Day 3 – Inheritance  
+## 📅 Day 5 – Inheritance  
 **Date:** 31-Dec-2025
 
 Focused on strengthening Java inheritance concepts by implementing programs that demonstrate parent-child relationships and method overriding.
@@ -173,7 +171,7 @@ Strengthened understanding of inheritance by designing modular Java programs tha
 
 ---
 
-## 📅 Day 4 – Encapsulation, Interface & Abstract Classes  
+## 📅 Day 6 – Encapsulation, Interface & Abstract Classes  
 **Date:** 01-Jan-2026
 
 Focused on understanding encapsulation, interfaces, and abstract classes to achieve data security, abstraction, and polymorphic behavior in Java.
@@ -211,7 +209,7 @@ Developed a strong grasp of abstraction, data hiding, and polymorphism through c
 
 ---
 
-## 📅 Day 5 – Real-World OOPS Design & Helper Methods  
+## 📅 Day 7 – Real-World OOPS Design & Helper Methods  
 **Date:** 02-Jan-2026
 
 Focused on applying object-oriented principles to real-world problem scenarios by building Java applications with modular design and reusable helper methods.
@@ -249,7 +247,7 @@ Improved practical understanding of designing modular and scalable object-orient
 
 ---
 
-## 📅 Day 6 – Enterprise OOPS Systems & Real-World Application Design  
+## 📅 Day 8 – Enterprise OOPS Systems & Real-World Application Design  
 **Date:** 03-Jan-2026
 
 Focused on designing enterprise-style Java applications by implementing scalable system structures using object-oriented design principles.
