@@ -111,9 +111,8 @@ Learned to write modular and reusable Java programs using methods.
 
 ---
 
-# Week 2: Java Strings, Methods & Exception Handling
 
-## 📅 Day 1 – Java Strings & Exception Handling  
+## 📅 Day 7 – Java Strings & Exception Handling  
 **Date:** 22-Dec-2025
 
 Worked on Java String handling and Exception Handling concepts through lab-based practice.
@@ -135,7 +134,7 @@ Improved understanding of string operations and error handling in Java.
 
 ---
 
-## 📅 Day 2 – Built-in Functions & String Handling  
+## 📅 Day 8 – Built-in Functions & String Handling  
 **Date:** 23-Dec-2025
 
 Focused on using Java built-in functions and string methods to write clean and efficient logic.
@@ -158,7 +157,7 @@ Gained confidence in using built-in functions for efficient problem solving.
 
 ---
 
-## 📅 Day 3 – Scenario-Based Java Problem Solving  
+## 📅 Day 9 – Scenario-Based Java Problem Solving  
 **Date:** 24-Dec-2025
 
 Solved real-world Java problems to strengthen logic building and Core Java fundamentals.
@@ -179,7 +178,7 @@ Improved logical thinking through scenario-driven Java programs.
 
 ---
 
-## 📅 Day 4 – Scenario-Based Java Problem Solving  
+## 📅 Day 10 – Scenario-Based Java Problem Solving  
 **Date:** 26-Dec-2025
 
 Practiced advanced scenario-based problems using loops and conditional statements.
@@ -196,9 +195,8 @@ Strengthened problem-solving skills using Java control flow.
 
 ---
 
-# Week 3: Scenario-Based Java Problem Solving
 
-## 📅 Day 1 – Scenario-Based Java Problems  
+## 📅 Day 11 – Scenario-Based Java Problems  
 **Date:** 29-Dec-2025
 
 Worked on multiple real-world Java scenarios using loops and conditions.
@@ -215,7 +213,7 @@ Improved control flow and logic handling in Java.
 
 ---
 
-## 📅 Day 2 – Scenario-Based Java Problems  
+## 📅 Day 12 – Scenario-Based Java Problems  
 **Date:** 30-Dec-2025
 
 Solved scenario-driven Java problems focusing on loops and conditions.
@@ -232,7 +230,7 @@ Enhanced logical thinking using structured Java programs.
 
 ---
 
-## 📅 Day 3 – Scenario-Based Java Problems  
+## 📅 Day 13 – Scenario-Based Java Problems  
 **Date:** 31-Dec-2025
 
 Focused on applying loops, conditions, and control statements in real-world scenarios.
