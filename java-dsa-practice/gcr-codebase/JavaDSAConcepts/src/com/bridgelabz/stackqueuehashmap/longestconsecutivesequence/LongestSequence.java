@@ -1,4 +1,4 @@
-package com.bridgelabz.stackqueuehahsmap.longestconsecutivesequence;
+package com.bridgelabz.stackqueuehashmap.longestconsecutivesequence;
 
 import java.util.HashSet;
 
