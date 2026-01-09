@@ -1,4 +1,4 @@
-package com.bridlelabz.stackqueuehashmap.sortstack;
+package com.bridgelabz.stackqueuehashmap.sortstack;
 
 import java.util.*;
 public class SortStack {
