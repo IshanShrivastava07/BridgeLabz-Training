@@ -1,4 +1,4 @@
-package com.bridgelabz.stackqueuehahsmap.longestconsecutivesequence;
+package com.bridgelabz.stackqueuehashmap.longestconsecutivesequence;
 
 public class LongestSequenceMain {
     public static void main(String[] args) {
