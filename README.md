@@ -724,6 +724,9 @@ Focused on strengthening **advanced object-oriented programming, real-world scen
 - CampusConnect – College Information System  
 - SwiftCart – Grocery Shopping Application  
 
+🔗 **Assignment Links:**  
+- [Sorting](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting)
+
 
 ### 📌 Key Takeaway:
 Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
@@ -757,6 +760,13 @@ Focused on strengthening **searching algorithm fundamentals (Linear Search & Bin
 - FitTrack – Personal Fitness Tracker  
 
 
+🔗 **Assignment Links:**  
+- [Searching](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/search)
+- [StringBuffer & StringBuilder](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/strings)
+- [FileReader](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/reader)
+- [InputStreamReader](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/inputstreamreader)
+
+
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
@@ -786,6 +796,8 @@ Focused on strengthening **algorithm runtime analysis concepts and Big-O notatio
 - Completed **Algorithm Runtime Analysis & Big-O Notation** practice  
 - Tested, committed, and pushed all programs to GitHub  
 
+🔗 **Assignment Links:** 
+-[Algorythm Analysis](https://github.com/IshanShrivastava07/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/algorithmanalysis)
    
 ### 📌 Key Takeaway:
 Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
