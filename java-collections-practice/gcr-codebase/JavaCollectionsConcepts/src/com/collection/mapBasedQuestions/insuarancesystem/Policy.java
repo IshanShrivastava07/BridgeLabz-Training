@@ -1,4 +1,4 @@
-package com.collection.mapBasedQuestions.InsuaranceSystem;
+package com.collection.mapBasedQuestions.insuarancesystem;
 
 import java.time.LocalDate;
 import java.util.*;
@@ -10,7 +10,7 @@ LocalDate expiryDate;
 	public Policy(int number,
 	String holderString,
 	LocalDate expiryDate) {
-		
+			
 		this.number = number;
 		this.holderString = holderString;
 		this.expiryDate = expiryDate;
