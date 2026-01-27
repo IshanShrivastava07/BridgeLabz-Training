@@ -1,4 +1,4 @@
-package com.collection.mapBasedQuestions.InsuaranceSystem;
+package com.collection.mapBasedQuestions.insuarancesystem;
 
 import java.time.LocalDate;
 import java.util.HashMap;
