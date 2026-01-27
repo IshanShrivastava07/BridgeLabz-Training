@@ -1,4 +1,4 @@
-package com.collection.listInterface; 
+package com.collection.listinterface;
 import java.util.ArrayList;
 import java.util.Arrays;
 
