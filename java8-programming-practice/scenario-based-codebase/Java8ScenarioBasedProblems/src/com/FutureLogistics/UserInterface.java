@@ -1,4 +1,4 @@
-package FutureLogistics;
+package com.FutureLogistics;
 
 import java.util.Scanner;
 

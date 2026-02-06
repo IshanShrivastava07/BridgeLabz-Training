@@ -1,4 +1,4 @@
-package FutureLogistics;
+package com.FutureLogistics;
 
 public class BrickTransport extends GoodsTransport {
 

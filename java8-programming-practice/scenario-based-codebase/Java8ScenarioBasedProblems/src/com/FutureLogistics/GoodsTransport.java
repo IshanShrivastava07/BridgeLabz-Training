@@ -1,4 +1,4 @@
-package FutureLogistics;
+package com.FutureLogistics;
 
 public abstract class GoodsTransport {
 
