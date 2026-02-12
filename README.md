@@ -1,4 +1,3 @@
-# BridgeLabz-Training
 
 # BridgeLabz-Training
 > A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
@@ -801,6 +800,566 @@ Focused on strengthening **algorithm runtime analysis concepts and Big-O notatio
    
 ### 📌 Key Takeaway:
 Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
+
+---
+
+---
+
+## 🗓 Day 6 – Scenario-Based Problems  
+**Date: 08-Jan-2026**
+
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+ 
+### Work Done:
+- Implemented **4 real-world scenario-based Java problems**  
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform   
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of scenario-based object-oriented problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 7 – Scenario-Based Practice  
+**Date: 09-Jan-2026**
+
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- Artify – Digital Art Marketplace  
+- FoodLoop – Restaurant Ordering System
+- SkillForge – Online Learning Portal  
+
+### Work Done:
+- Implemented **3 real-world enterprise-level Java systems**  
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 8 – Scenario-Based Practice  
+**Date: 10-Jan-2026**
+
+Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- BookShelf – Library Organizer  
+- BrowserBuddy – Tab History Manager
+- AmbulanceRoute – Emergency Patient Navigation  
+
+### Work Done:
+- Implemented **3 real-world scenario Java problems**  
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 9 – LeetCode Problem Solving & Logic Building  
+**Date: 11-Jan-2026**
+
+Focused on strengthening **problem-solving skills and logical thinking** by solving LeetCode programming problems while following professional coding standards.
+
+### Work Done:
+- Solved **1 LeetCode problem**  
+- Practiced logic building and algorithmic thinking  
+- Tested, committed, and pushed all solutions to GitHub  
+
+
+### 📌 Key Takeaway:
+Improved my confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean Java solutions.
+
+---
+
+## 🗓 Day 10 – Scenario-based problems  
+**Date: 12-Jan-2026**
+
+Focused on strengthening **dsa and oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- CallCenter – Customer Queue Manager  
+- TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality
+- TrafficManager – Roundabout Vehicle Flow
+- HomeNest – Smart Home Device Manager
+- BudgetWise – Personal Finance Tracker
+- GameBox – Mobile Game Distribution Platform  
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 11 – Scenario-based problems  
+**Date: 13-Jan-2026**
+
+Focused on strengthening **dsa and oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- SmartCheckout – Supermarket Billing Queue  
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- PayXpress – Utility Bill Payment System
+- Bird Sanctuary  
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+</details>
+
+# Week 4: Java Collections & Stream
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Java Generics  
+**Date: 15-Jan-2026**
+
+Focused on strengthening **Java Generics concepts** by understanding type safety, reusable code design, and generic classes and methods while following professional coding standards.
+
+### What I practiced today:   
+- Java Generics Fundamentals:   
+  - Understanding the need for Generics  
+  - Type safety at compile time  
+  - Avoiding ClassCastException  
+- Generic Classes & Methods:   
+  - Creating generic classes  
+  - Defining generic methods  
+  - Using type parameters effectively  
+
+### Scenario Based Systems Implemented:
+- HospitalQueue – Patient Sorting by Criticality   
+- SmartShelf – Real-Time Book Arrangement
+- ZipZipMart – Daily Sales Summary Report
+- EventManager – Ticket Price Optimizer
+- ExamCell – Student Rank Generator 
+
+
+### 📌 Key Takeaway:
+Developed a clear understanding of how Java Generics improve code reusability, type safety, and maintainability in large-scale applications.
+
+---
+
+## 🗓 Day 2 – Java Collections Framework  
+**Date: 16-Jan-2026**
+
+Focused on strengthening **Java Collections Framework concepts** by understanding dynamic data storage, collection interfaces, and commonly used collection classes while following professional coding standards.
+
+### What I practiced today:   
+- Java Collections Overview:   
+  - Understanding the need for Collections  
+  - Collection framework hierarchy  
+- List Implementations:   
+  - ArrayList usage and operations  
+  - LinkedList basics and traversal  
+- Set & Map Concepts:   
+  - Understanding Set for unique elements  
+  - HashSet behavior and use cases  
+
+### Scenario Based Systems Implemented:
+- RoboWarehouse – Shelf Loading Robot
+- CinemaHouse – Movie Time Sorting
+- CropMonitor – Sensor Data Ordering 
+
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Collections provide flexible, efficient, and dynamic data handling compared to traditional arrays.
+
+---
+
+## 🗓 Day 3 – Scenario based problems  
+**Date: 17-Jan-2026**
+
+Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.      
+
+### Scenario Based Systems Implemented:   
+- ArtExpo – Sort Artists by Registration Time   
+- FleetManager – Vehicle Maintenance Scheduler   
+- IceCreamRush – Sorting Flavors by Popularity   
+- SmartLibrary – Auto-Sort Borrowed Books         
+
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 4 – Scenario based problems  
+**Date: 18-Jan-2026**
+
+Focused on strengthening **Oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.      
+
+### Scenario Based Systems Implemented:   
+- GeoMeasure Solutions
+- Bag-n-Ball Organizer   
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of oops-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 5 – Java IO Streams     
+**Date: 19-Jan-2026**
+
+Focused on strengthening **Java Streams API concepts** by understanding functional-style operations on collections, data processing pipelines, and cleaner, more readable code while following professional coding standards.
+
+### What I practiced today:   
+- Java Streams Fundamentals:   
+  - Understanding Streams and their purpose  
+  - Difference between Streams and Collections  
+  - Stream pipeline (source, intermediate, terminal operations)  
+- Intermediate Operations:   
+  - `filter()` for conditional processing  
+  - `map()` for data transformation  
+  - `sorted()` for ordering elements  
+- Terminal Operations:   
+  - `forEach()` for iteration  
+  - `collect()` for converting stream results  
+  - `reduce()` for aggregation operations 
+ 
+### Scenario Based Systems Implemented:   
+- EduResults – Rank Sheet Generator    
+- FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking
+- Address Book System     
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Streams simplify data processing, improve code readability, and enable functional-style programming in Java.
+
+---
+
+## 🗓 Day 6 – Java Exceptions & Error Handling     
+**Date: 20-Jan-2026**
+
+Focused on strengthening **Java Exception Handling concepts** by understanding runtime errors, handling exceptional scenarios gracefully, and writing robust and fault-tolerant Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Java Exception Fundamentals:   
+  - Understanding exceptions and errors  
+  - Difference between checked and unchecked exceptions  
+  - Common runtime exceptions  
+- Exception Handling Mechanisms:   
+  - Using `try`, `catch`, and `finally` blocks  
+  - Handling multiple catch blocks  
+  - Proper resource cleanup  
+- Custom Exceptions:   
+  - Creating user-defined exceptions  
+  - Throwing exceptions using `throw`  
+  - Propagating exceptions using `throws`  
+
+### Scenario Based Systems Implemented:   
+- MovieTime – Theater Show Listings    
+- FoodFest – Sorting Stalls by Customer Footfall
+- GamerZone – High Score Ranking System
+- FlipKey     
+
+### 📌 Key Takeaway:
+Developed a solid understanding of exception handling in Java and learned how to write robust, maintainable, and error-resilient programs.
+
+---
+
+## 🗓 Day 7 – Regular Expressions (Regex) & JUnit Testing  
+**Date: 21-Jan-2026**
+
+Focused on strengthening **Regular Expressions and JUnit testing concepts** by validating input patterns and writing unit tests to ensure correctness and reliability of Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Regular Expressions (Regex):   
+  - Understanding regex patterns and syntax  
+  - Validating user inputs such as names, email IDs, and passwords  
+  - Using quantifiers, character classes, and anchors  
+- JUnit Testing:   
+  - Understanding the importance of unit testing  
+  - Writing test cases using JUnit  
+  - Using annotations like `@Test`, `@BeforeEach`, and `@AfterEach`  
+  - Validating expected vs actual results
+
+### Scenario Based Systems Implemented:   
+- TailorShop – Sorting Orders by Delivery Deadline    
+- MedWarehouse – Sorting Medicines by Expiry
+- University's Digital Record System
+- E-Commerce Product Inventory
+- Music App - Organize Songs by Track ID   
+
+
+### 📌 Key Takeaway:
+Developed a strong understanding of input validation using regex and learned how unit testing with JUnit helps in building reliable and maintainable Java applications.
+
+---
+
+## 🗓 Day 8 – Java Annotations & Reflection  
+**Date: 22-Jan-2026**
+
+Focused on strengthening **Java Annotations and Reflection concepts** by understanding metadata usage, runtime inspection of classes, and dynamic behavior in Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Java Annotations:   
+  - Understanding the purpose of annotations  
+  - Using built-in annotations like `@Override`, `@Deprecated`, and `@SuppressWarnings`  
+  - Creating custom annotations  
+  - Applying annotations at class, method, and field level  
+- Java Reflection:   
+  - Understanding reflection and its use cases  
+  - Inspecting classes, methods, fields, and constructors at runtime  
+  - Accessing private members using reflection  
+  - Dynamic object creation and method invocation  
+
+### Scenario Based Systems Implemented:   
+- Gaming App - Real-Time Leaderboard
+- Online Ticket Booking by Time
+- Hospital Queue Management 
+
+
+### 📌 Key Takeaway:
+Developed a solid understanding of how annotations provide metadata and how reflection enables dynamic inspection and execution of Java code at runtime.
+
+---
+
+</details>
+
+# Week 5: IO Programming
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – CSV Data Handling  
+**Date: 23-Jan-2026**
+
+Focused on strengthening **CSV data handling concepts in Java** by reading, writing, and processing structured data files while following professional coding standards.
+
+### What I practiced today:   
+- CSV File Handling Basics:   
+  - Understanding CSV file structure  
+  - Reading CSV files line by line  
+  - Writing data into CSV files  
+- Data Parsing & Processing:   
+  - Splitting CSV records into fields  
+  - Converting string data into appropriate data types  
+  - Validating and cleaning CSV data  
+- Java File Handling Concepts:   
+  - Using file I/O classes for data handling  
+  - Handling exceptions during file operations  
+  - Ensuring proper resource management  
+
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how to handle structured CSV data in Java and learned effective techniques for reading, writing, and processing file-based data.
+
+---
+
+## 🗓 Day 2 – JSON Data Handling  
+**Date: 24-Jan-2026**
+
+Focused on strengthening **JSON data handling concepts in Java** by reading, writing, and processing structured JSON data while following professional coding standards.
+
+### What I practiced today:   
+- JSON Fundamentals:   
+  - Understanding JSON structure (objects, arrays, key-value pairs)  
+  - Difference between CSV and JSON data formats  
+  - Use cases of JSON in real-world applications
+    
+- JSON Parsing & Processing:   
+  - Reading JSON data from files  
+  - Extracting and processing JSON objects and arrays  
+  - Converting JSON data into Java objects
+    
+- Java File Handling & Error Management:   
+  - Handling file I/O operations safely  
+  - Managing parsing exceptions  
+  - Ensuring proper resource handling   
+
+### 📌 Key Takeaway:
+Developed a strong understanding of JSON data handling in Java and learned how structured data is parsed, processed, and mapped effectively in real-world applications.
+
+---
+
+</details>
+
+# Week 6: Java 8 & its Features
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Lambda Expressions  
+**Date: 27-Jan-2026**
+
+Focused on strengthening **Lambda Expressions in Java 8** by writing concise functional-style code and reducing boilerplate using anonymous function implementations while following professional coding standards.
+
+### What I practiced today:   
+- Lambda Expressions Basics:   
+  - Understanding functional programming concepts  
+  - Syntax of lambda expressions  
+  - Replacing anonymous classes with lambdas
+    
+- Usage of Lambdas:   
+  - Using lambdas with interfaces  
+  - Passing behavior as method parameters  
+  - Writing cleaner and more readable code  
+
+### 📌 Key Takeaway:
+Learned how lambda expressions simplify Java code and enable functional-style programming by reducing boilerplate and improving readability.
+
+---
+
+## 🗓 Day 2 – Functional Interfaces  
+**Date: 27-Jan-2026**
+
+Focused on strengthening **Functional Interfaces in Java 8** by understanding single abstract method interfaces and their role in lambda expressions while following professional coding standards.
+
+### What I practiced today:   
+- Functional Interface Concepts:   
+  - Understanding Single Abstract Method (SAM) interfaces  
+  - Using `@FunctionalInterface` annotation  
+  - Creating custom functional interfaces  
+
+- Built-in Functional Interfaces:   
+  - Predicate  
+  - Function  
+  - Consumer  
+  - Supplier  
+
+### 📌 Key Takeaway:
+Understood how functional interfaces form the foundation of Java 8 features and enable powerful functional-style programming with lambdas.
+
+--- 
+
+## 🗓 Day 3 – Stream API  
+**Date: 28-Jan-2026**
+
+Focused on strengthening **Java 8 Stream API concepts** by processing collections using functional-style operations and stream pipelines while following professional coding standards.
+
+### What I practiced today:   
+- Stream API Fundamentals:   
+  - Understanding streams and stream pipelines  
+  - Difference between collections and streams  
+  - Lazy evaluation in streams  
+
+- Stream Operations:   
+  - Intermediate operations: `filter()`, `map()`, `sorted()`  
+  - Terminal operations: `forEach()`, `collect()`, `reduce()`  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Streams simplify data processing and enable clean, functional-style code.
+
+---
+
+## 🗓 Day 4 – Collectors  
+**Date: 29-Jan-2026**
+
+Focused on strengthening **Collectors in Java 8** by collecting, grouping, and transforming stream data into different data structures while following professional coding standards.
+
+### What I practiced today:   
+- Collectors Basics:   
+  - Understanding `Collectors` utility class  
+  - Using `toList()`, `toSet()`, `toMap()`  
+
+- Advanced Collectors:   
+  - Grouping and partitioning data  
+  - Counting, summing, and averaging elements  
+  - Collecting stream results efficiently  
+
+### 📌 Key Takeaway:
+Learned how collectors help transform and aggregate stream data efficiently, making Java 8 streams more powerful and expressive.
+
+---
+
+</details>
+
+# Week 7: Solution Designing
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Software Design Principles  
+**Date: 30-Jan-2026**
+
+Focused on strengthening **software design principles** by understanding how to design clean, maintainable, scalable, and flexible software systems while following professional coding and architectural standards.
+
+### What I practiced today:   
+- Core Design Principles:   
+  - Understanding the importance of good software design  
+  - Writing clean, readable, and maintainable code  
+  - Designing systems with low coupling and high cohesion  
+
+- SOLID Principles Overview:   
+  - Single Responsibility Principle (SRP)  
+  - Open/Closed Principle (OCP)  
+  - Liskov Substitution Principle (LSP)  
+  - Interface Segregation Principle (ISP)  
+  - Dependency Inversion Principle (DIP)  
+
+- Design Thinking:   
+  - Identifying responsibilities in a system  
+  - Separating concerns effectively  
+  - Designing for future changes and extensibility  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how software design principles help build robust, scalable, and maintainable systems and form the foundation for effective solution designing.
+
+---
+
+## 🗓 Day 2 – Design Patterns  
+**Date: 31-Jan-2026**
+
+Focused on strengthening **design pattern concepts** by understanding reusable solutions to common software design problems and learning how to apply proven architectural patterns while following professional coding standards.
+
+### What I practiced today:   
+- Design Patterns Overview:   
+  - Understanding what design patterns are and why they are used  
+  - Difference between design principles and design patterns  
+  - Benefits of using patterns in large-scale applications  
+
+- Creational Design Patterns:   
+  - Singleton Pattern  
+  - Factory Pattern  
+  - Builder Pattern  
+  - Understanding object creation control  
+
+- Structural & Behavioral Patterns (Introduction):   
+  - Overview of Adapter, Decorator patterns  
+  - Introduction to Observer and Strategy patterns  
+  - Understanding when to apply each pattern  
+
+### 📌 Key Takeaway:
+Gained a strong understanding of how design patterns provide reusable, proven solutions to recurring design problems and help build scalable and maintainable software systems.
+
+---
+
+## 🗓 Day 3 – Java Multithreading  
+**Date: 02-Feb-2026**
+
+Focused on strengthening **Java multithreading concepts** by understanding concurrent execution, thread lifecycle, synchronization, and safe shared resource handling while following professional coding standards.
+
+### What I practiced today:   
+- Multithreading Fundamentals:   
+  - Understanding processes vs threads  
+  - Thread lifecycle and states  
+  - Creating threads using `Thread` class and `Runnable` interface  
+
+- Thread Management:   
+  - Using `start()` vs `run()`  
+  - Thread scheduling and priorities  
+  - Sleep and join methods
+    
+- Synchronization & Concurrency:   
+  - Race conditions and thread safety  
+  - Using `synchronized` keyword  
+  - Handling shared resources safely  
+
+### 📌 Key Takeaway:
+Developed a solid understanding of concurrent programming in Java and learned how to manage multiple threads safely using synchronization techniques.
+
+</details>
 
 ---
 
